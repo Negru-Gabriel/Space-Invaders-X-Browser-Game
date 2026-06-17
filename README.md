@@ -3,7 +3,7 @@ Classic Space Invaders with neon blasts, power-ups &amp; boss battles every 5 le
 
 [![Play in Browser](https://img.shields.io/badge/🎮-Play%20in%20Browser-00b4d8?style=for-the-badge)](https://web-gam-dev.blogspot.com/2026/06/space-invaders-x.html)
 <hr>
-<img src="">
+<img src="promo_marquee_1400x560.png">
 👾 SPACE INVADERS X — The Ultimate Retro Arcade Shooter
 
 Experience the legendary Space Invaders reimagined for the modern era with stunning neon visuals, explosive particle effects, and intense gameplay that keeps you coming back for one more run!
